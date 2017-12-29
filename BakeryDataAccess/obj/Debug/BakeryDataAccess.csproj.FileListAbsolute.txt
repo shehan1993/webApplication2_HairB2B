@@ -1,0 +1,10 @@
+C:\Users\shehan_j\Desktop\Pro_sites\Dotnet\WebApplication2\BakeryDataAccess\bin\Debug\BakeryDataAccess.dll.config
+C:\Users\shehan_j\Desktop\Pro_sites\Dotnet\WebApplication2\BakeryDataAccess\bin\Debug\BakeryDataAccess.dll
+C:\Users\shehan_j\Desktop\Pro_sites\Dotnet\WebApplication2\BakeryDataAccess\bin\Debug\BakeryDataAccess.pdb
+C:\Users\shehan_j\Desktop\Pro_sites\Dotnet\WebApplication2\BakeryDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\shehan_j\Desktop\Pro_sites\Dotnet\WebApplication2\BakeryDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\shehan_j\Desktop\Pro_sites\Dotnet\WebApplication2\BakeryDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\shehan_j\Desktop\Pro_sites\Dotnet\WebApplication2\BakeryDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\shehan_j\Desktop\Pro_sites\Dotnet\WebApplication2\BakeryDataAccess\obj\Debug\BakeryDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\shehan_j\Desktop\Pro_sites\Dotnet\WebApplication2\BakeryDataAccess\obj\Debug\BakeryDataAccess.dll
+C:\Users\shehan_j\Desktop\Pro_sites\Dotnet\WebApplication2\BakeryDataAccess\obj\Debug\BakeryDataAccess.pdb

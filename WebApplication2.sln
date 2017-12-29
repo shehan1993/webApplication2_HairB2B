@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{3BC2460C-CE2E-4FF2-A0B4-59F50194842F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BakeryDataAccess", "BakeryDataAccess\BakeryDataAccess.csproj", "{DF30CC5D-7940-4F98-935F-F0B1BB095560}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BC2460C-CE2E-4FF2-A0B4-59F50194842F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC2460C-CE2E-4FF2-A0B4-59F50194842F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC2460C-CE2E-4FF2-A0B4-59F50194842F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC2460C-CE2E-4FF2-A0B4-59F50194842F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF30CC5D-7940-4F98-935F-F0B1BB095560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF30CC5D-7940-4F98-935F-F0B1BB095560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF30CC5D-7940-4F98-935F-F0B1BB095560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF30CC5D-7940-4F98-935F-F0B1BB095560}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
